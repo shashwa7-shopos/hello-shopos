@@ -1,1 +1,3 @@
-# hello-shopos
+# hello-shopos 
+
+lets get started!
